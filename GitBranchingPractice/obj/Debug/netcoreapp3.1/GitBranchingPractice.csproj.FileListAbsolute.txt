@@ -1,0 +1,13 @@
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\bin\Debug\netcoreapp3.1\GitBranchingPractice.exe
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\bin\Debug\netcoreapp3.1\GitBranchingPractice.deps.json
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\bin\Debug\netcoreapp3.1\GitBranchingPractice.runtimeconfig.json
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\bin\Debug\netcoreapp3.1\GitBranchingPractice.runtimeconfig.dev.json
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\bin\Debug\netcoreapp3.1\GitBranchingPractice.dll
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\bin\Debug\netcoreapp3.1\GitBranchingPractice.pdb
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\obj\Debug\netcoreapp3.1\GitBranchingPractice.csprojAssemblyReference.cache
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\obj\Debug\netcoreapp3.1\GitBranchingPractice.AssemblyInfoInputs.cache
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\obj\Debug\netcoreapp3.1\GitBranchingPractice.AssemblyInfo.cs
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\obj\Debug\netcoreapp3.1\GitBranchingPractice.csproj.CoreCompileInputs.cache
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\obj\Debug\netcoreapp3.1\GitBranchingPractice.dll
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\obj\Debug\netcoreapp3.1\GitBranchingPractice.pdb
+C:\Users\pin\source\repos\GitBranchingPractice\GitBranchingPractice\obj\Debug\netcoreapp3.1\GitBranchingPractice.genruntimeconfig.cache
