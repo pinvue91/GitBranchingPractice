@@ -10,7 +10,7 @@ namespace GitBranchingPractice
             string[] names = { "Joey", "Juan", "Raymundo", "Stacy" };
             foreach(string name in names)
             {
-                Console.WriteLine(name + "is a student.");
+                Console.WriteLine(name + "is a teacher.");
             }
         }
     }
